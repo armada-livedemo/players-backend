@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": 2000,
+  "database": "players",
+  "user": "root",
+  "password": "groovy"
+}
